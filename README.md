@@ -57,11 +57,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalNishad&theme=radical" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNishad&layout=compact&theme=radical" />
-    </td>
-  </tr>
 </table>  
 
 ---
