@@ -37,12 +37,11 @@
 
 ## 🚀 **Top Projects**  
 
-| 🏆 Project | 📌 Description | 🔗 Repo Link |
-|------------|--------------|------------|
-| 🏙 **Crime Hotspot Prediction** | ML model for crime pattern detection in Los Angeles | [🔗 View Repo](#) |
-| 🩺 **Breast Cancer Survival Analysis** | Predicting patient survival using clinical data | [🔗 View Repo](#) |
-| 📈 **Bitcoin Price Prediction** | Forecasting crypto prices using time-series models | [🔗 View Repo](#) |
-| 🏢 **Employee Attrition Analysis** | Understanding workforce retention using AI | [🔗 View Repo](#) |
+| 🏆 Project | 📌 Description |
+|------------|--------------|
+| 🏙 **Crime Hotspot Prediction** | ML model for crime pattern detection in Los Angeles |
+| 🩺 **Breast Cancer Survival Analysis** | Predicting patient survival using clinical data |
+| 🏢 **Employee Attrition Analysis** | Understanding workforce retention using AI |
 
 ---
 
