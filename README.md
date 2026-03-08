@@ -1,4 +1,4 @@
-# 🚀 **Vishal Nishad** | Data Scientist & Data Analyst  
+# 🚀 **Vishal Nishad** | Data Scientist & Machine Learning Engineer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=VishalNishad&label=Profile%20Views&color=blue&style=flat)]()  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-nishad-89127a24a)  
@@ -7,71 +7,68 @@
 
 ---
 
-## 🌟 **Welcome to My Data Science & Analytics Hub!**  
-
-💡 Passionate about **Data Science, Business Intelligence, and AI-driven solutions**  
-📊 Skilled in **Python, SQL, Machine Learning, Power BI, and Tableau**  
-📈 Always exploring **Data-Driven Insights, Predictive Modeling & Cloud Technologies**  
-🎯 Building **end-to-end analytics solutions and impactful visualizations**  
+## ⚡ **Welcome to My Data Innovation Hub!** 💡 **Mission:** Transforming raw data into high-impact, strategic intelligence.  
+🧠 **Expertise:** Architecting Machine Learning pipelines, Predictive Modeling, and Advanced Analytics.  
+⚙️ **Specialties:** Python, SQL, Advanced Gradient Boosting (XGBoost), and crafting compelling data narratives.  
+🚀 **Focus:** Building reproducible, scalable AI solutions that drive real-world decision-making.  
 
 ---
 
-## 🛠 **Tech Stack & Tools**  
+## 🛠 **Arsenal & Tech Stack** ### 🧠 **Machine Learning & Deep Learning**
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-13B821?style=for-the-badge&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### 📌 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+### 💻 **Core Languages & Data Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### 📊 **Data Visualization & BI**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+### 📊 **Business Intelligence & Deployment**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### ☁ **Cloud & Tools**  
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm-cloud&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
+### ☁ **Cloud, Environments & MLOps**
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🚀 **Top Projects**  
-
-| 🏆 Project | 📌 Description |
+## 🔥 **Featured Engineering Projects** | 🏆 Project | 📌 Impact & Description |
 |------------|--------------|
-| 🏙 **Crime Hotspot Prediction** | ML model for crime pattern detection in Los Angeles |
-| 🩺 **Breast Cancer Survival Analysis** | Predicting patient survival using clinical data |
-| 🏢 **Employee Attrition Analysis** | Understanding workforce retention using AI |
+| 🏙 **Los Angeles Crime Hotspot Detection** | Engineered a geospatial ML model to identify patterns and predict localized crime vulnerabilities. |
+| 🩺 **Breast Cancer Survival Analytics** | Developed a robust predictive model utilizing clinical datasets to estimate patient survival rates and identify key health indicators. |
+| 🚀 **End-to-End MLOps Pipeline** | Deployed an interactive predictive web application using XGBoost, Streamlit, and Docker for real-time inference. |
 
 ---
 
-## 📊 **GitHub Stats & Activity**  
-
-<table>
+## 📈 **GitHub Analytics & Activity** <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=VishalNishad&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=VishalNishad&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalNishad&theme=radical" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalNishad&theme=tokyonight" />
     </td>
   </tr>
 </table>  
 
 ---
 
-## 📬 **Let’s Connect!**  
-
-🔹 **Email:** [vishalnishadh419@gmail.com](mailto:vishalnishadh419@gmail.com)  
-🔹 **LinkedIn:** [Vishal Nishad](https://www.linkedin.com/in/vishal-nishad-89127a24a)  
-🔹 **GitHub Portfolio:** [Click Here](https://github.com/VishalNishad)  
+## 📬 **Let’s Collaborate & Innovate!** 🔹 **Drop an Email:** [vishalnishadh419@gmail.com](mailto:vishalnishadh419@gmail.com)  
+🔹 **Connect on LinkedIn:** [Vishal Nishad](https://www.linkedin.com/in/vishal-nishad-89127a24a)  
+🔹 **Explore My Repos:** [GitHub Portfolio](https://github.com/VishalNishad)  
 
 ---
 
-### 🎯 **Fun Fact:**  
-_"The best way to predict the future is to create it." - Peter Drucker_ 🚀  
+### 🌌 **Data Philosophy:** _"Information is the oil of the 21st century, and analytics is the combustion engine." - Peter Sondergaard_ 🚀  
 
 ---
 
-## 🎉 **Thank You for Visiting!**  
-🔔 **Star this repo** if you like my work & feel free to contribute! 🌟  
+## 🎉 **Thanks for Dropping By!** 🔔 **Star this repo** if you found something inspiring, and never stop building! 🌟
