@@ -111,27 +111,23 @@ Goal: Improve **electricity demand prediction and smart grid planning**.
 
 ---
 
-# 📊 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNishad&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNishad&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
----
+## 🏆 GitHub Achievements
 
-# 🏆 GitHub Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VishalNishad&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VishalNishad&theme=tokyonight&row=1&column=7"/>
+## 👀 Profile Visitors
 
----
-
-# 👀 Profile Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/VishalNishad/count.svg)
-
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VishalNishad&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 # 📬 Contact
 
